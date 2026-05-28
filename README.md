@@ -28,7 +28,7 @@ I’m open to collaborating on projects involving AI, Blockchain, Web3, or Tech 
 - 🐦 [Twitter (X)](https://x.com/Hopeville27)  
 - 💼 [LinkedIn – Success Afor](https://www.linkedin.com/in/success-afor-92bb19222)  
 - 📧 Email: securetechie.27@gmail.com
-- 🌐 Website: https://oxthegoldenboy.netlify.app/
+- 🌐 Website: https://successafor01.vercel.app/
 
 ⚡ Fun Fact
 I’m passionate about turning bold ideas into real, working systems, whether it’s an AI chatbot, a blockchain prototype, or a digital startup.  
