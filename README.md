@@ -1,6 +1,6 @@
 👋 Hi, I’m Success Afor (@SecureTechie)
 
-🎓 I’m an undergraduate student of Computer Science at the University of Nigeria, Nsukka, passionate about building intelligent and scalable solutions that combine AI, Blockchain, and Web technologies to solve real-world problems.
+🎓 I’m a graduate of Computer Science from the University of Nigeria, Nsukka, passionate about building intelligent and scalable solutions that combine AI, Blockchain, and Web technologies to solve real-world problems.
 
 🧭 About Me
 I’m a tech builder and innovator exploring how emerging technologies can create meaningful impact in Africa and beyond.  
