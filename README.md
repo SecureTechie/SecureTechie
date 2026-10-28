@@ -1,42 +1,62 @@
-👋 Hi, I’m Success Afor (@SecureTechie)
+Success Afor
 
-🎓 I’m a graduate of Computer Science from the University of Nigeria, Nsukka, passionate about building intelligent and scalable solutions that combine AI, Blockchain, and Web technologies to solve real-world problems.
+Software Engineer | Founder | Product Builder
 
-🧭 About Me
-I’m a tech builder and innovator exploring how emerging technologies can create meaningful impact in Africa and beyond.  
-My work spans AI-driven automation, blockchain development, and digital product innovation, blending creativity with engineering to shape the future of technology.
+I build software products and automation systems that address practical problems. My work covers full stack web development, backend integrations, AI workflows and turning ideas into usable products.
 
-I currently run MangoLabs, a startup that helps small-scale businesses gain visibility online through smart digital tools, and I’m the creator of Geeko Chat Assistant, a hybrid AI chatbot built with NLP and machine learning to provide intelligent tech support.
+I’m the founder of GridSenseni Limited, Mangolabs and Gatherly. 
+Companies and Products
 
-💡 What I Do
-- 🤖 Artificial Intelligence — NLP, Machine Learning, AI Agents, Model Deployment  
-- ⛓️ Blockchain Development — Smart Contracts, DApps, Web3 Integration, Celo Ecosystem  
-- 💻 Software Engineering — Full-stack Web Apps (Next.js + Flask), Scalable APIs, Automation  
-- 🚀 Tech Innovation & Entrepreneurship — Product design, digital inclusion, and growth strategy
+GridSenseni Limited
 
-🌱 Currently Exploring
-- AI for real-world automation  
-- Blockchain for transparency and inclusion  
-- Decentralised AI systems  
-- Scalable Web3 infrastructure  
-- Startup building and product growth
+Electricity information for people and businesses across Nigeria
 
-🤝 Collaboration
-I’m open to collaborating on projects involving AI, Blockchain, Web3, or Tech Innovation, especially initiatives focused on empowering small businesses or driving digital transformation in Africa.
+GridSenseni helps people find and assess available electricity information for locations where they live, work or plan to move. It brings together location discovery, community observations and reviewed electricity evidence.
 
--📫 Let’s Connect
-- 🐦 [Twitter (X)](https://x.com/Hopeville27)  
-- 💼 [LinkedIn – Success Afor](https://www.linkedin.com/in/success-afor-92bb19222)  
-- 📧 Email: securetechie.27@gmail.com
-- 🌐 Website: https://successafor01.vercel.app/
+I’m focused on growing our contributor network and making that information more useful over time.
 
-⚡ Fun Fact
-I’m passionate about turning bold ideas into real, working systems, whether it’s an AI chatbot, a blockchain prototype, or a digital startup.  
-If it challenges me to learn and build, I’m all in. 💪
+GridSenseni: See the Grid in Real Time.
 
-💬 “Innovation happens where curiosity meets execution.”
+Visit GridSenseni
 
-<!---
-SecureTechie/SecureTechie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Mangolabs
+
+Software development and digital solutions
+
+Mangolabs works on digital products for businesses, including websites, web applications, interface design and workflow automation.
+
+It’s where I combine engineering with the practical demands of delivering software for organisations.
+
+Explore Mangolabs
+
+Gatherly
+
+Event organisation and guest coordination
+
+Gatherly is an event management product focused on helping organisers coordinate event details, guest information and communication in one place.
+
+I’m building it to reduce the manual work involved in planning and managing events.
+
+Explore Gatherly
+
+Technical Experience
+
+* Application Engineering: TypeScript, JavaScript, React, Next.js
+* Backend and Data: APIs, PostgreSQL, Supabase
+* Automation: n8n, Make, Zapier, third party integrations
+* AI Integrations: LLM workflows and conversational applications
+* Development and Delivery: Git, GitHub, cloud deployment
+
+Currently Focused On
+
+* Expanding GridSenseni’s community powered electricity information network
+* Building and improving products through Mangolabs and Gatherly
+* Developing practical AI and automation systems
+
+Connect
+
+* X: @Hopeville27
+* GitHub: SecureTechie
+* Portfolio: Coming soon. My live products are linked above.
+
+I’m interested in collaborating with people building useful technology.
