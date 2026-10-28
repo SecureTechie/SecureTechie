@@ -1,62 +1,74 @@
 Success Afor
 
-Software Engineer | Founder | Product Builder
+Software Engineer | Founder | AI & Automation Engineer
 
-I build software products and automation systems that address practical problems. My work covers full stack web development, backend integrations, AI workflows and turning ideas into usable products.
+I build web applications, AI-powered tools and automation systems that solve real problems. I also enjoy taking products from the early idea stage through development, launch and continuous improvement.
 
-I’m the founder of GridSenseni Limited, Mangolabs and Gatherly. 
-Companies and Products
+About Me
 
-GridSenseni Limited
+I’m a Nigerian software engineer and entrepreneur with a background in computer science.
 
-Electricity information for people and businesses across Nigeria
+Most of my work sits at the intersection of software development, artificial intelligence and automation. I enjoy building useful products, improving digital experiences and finding simpler ways to solve complex problems.
 
-GridSenseni helps people find and assess available electricity information for locations where they live, work or plan to move. It brings together location discovery, community observations and reviewed electricity evidence.
+I’m the founder of GridSenseni Limited, Mangolabs and Gatherly. I’ve also worked on conversational AI systems and taught people how to use AI tools and automation in practical ways.
 
-I’m focused on growing our contributor network and making that information more useful over time.
+Education
+
+University of Nigeria, Nsukka
+B.Sc. Computer Science | 2021–2025
+
+Professional Experience
+
+Founder & CEO | GridSenseni Limited
+Building an electricity information platform that helps Nigerian communities and businesses better understand power availability in different locations.
+
+Founder & CEO | Mangolabs
+Building websites, digital products, user interfaces and automation solutions for businesses and organisations.
+
+Companies & Products
+
+01. GridSenseni Limited
 
 GridSenseni: See the Grid in Real Time.
 
-Visit GridSenseni
+GridSenseni helps people explore electricity conditions across different locations in Nigeria. The platform brings together community reports, location profiles, comparisons and reviewed electricity information to help people make better decisions about where to live, work or run a business.
 
-Mangolabs
+Live Website: https://gridsenseni.xyz/
 
-Software development and digital solutions
+02. Mangolabs
 
-Mangolabs works on digital products for businesses, including websites, web applications, interface design and workflow automation.
+Software Development & Digital Solutions
 
-It’s where I combine engineering with the practical demands of delivering software for organisations.
+Mangolabs builds websites, web applications, user interfaces and workflow automation systems that help businesses improve how they work and serve their customers.
 
-Explore Mangolabs
+Live Website: https://mangolabss.vercel.app/
 
-Gatherly
+03. Gatherly
 
-Event organisation and guest coordination
+Event Management & Guest Coordination
 
-Gatherly is an event management product focused on helping organisers coordinate event details, guest information and communication in one place.
+Gatherly is an event management product designed to make planning events, organising guest information and communicating with attendees easier.
 
-I’m building it to reduce the manual work involved in planning and managing events.
+It brings important event management tasks into one simple and organised digital experience.
 
-Explore Gatherly
+Live Website: https://gatherly-welcome.vercel.app/
 
-Technical Experience
+Technologies & Tools
 
-* Application Engineering: TypeScript, JavaScript, React, Next.js
-* Backend and Data: APIs, PostgreSQL, Supabase
-* Automation: n8n, Make, Zapier, third party integrations
-* AI Integrations: LLM workflows and conversational applications
-* Development and Delivery: Git, GitHub, cloud deployment
+Frontend: JavaScript, TypeScript, React, Next.js, TanStack Start, HTML, CSS
 
-Currently Focused On
+Backend & Databases: Supabase, PostgreSQL, REST APIs
 
-* Expanding GridSenseni’s community powered electricity information network
-* Building and improving products through Mangolabs and Gatherly
-* Developing practical AI and automation systems
+AI & Automation: OpenAI integrations, n8n, Make, Zapier
 
-Connect
+Development & Deployment: Git, GitHub, Vercel, Cloudflare Workers
 
-* X: @Hopeville27
-* GitHub: SecureTechie
-* Portfolio: Coming soon. My live products are linked above.
+Connect With Me
 
-I’m interested in collaborating with people building useful technology.
+Portfolio: https://successafor.com/
+
+LinkedIn: https://www.linkedin.com/in/success-afor-92bb19222/
+
+X: https://x.com/Hopeville27
+
+GitHub: https://github.com/SecureTechie
