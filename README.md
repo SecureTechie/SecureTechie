@@ -65,7 +65,7 @@ Development & Deployment: Git, GitHub, Vercel, Cloudflare Workers
 
 Connect With Me
 
-Portfolio: https://successafor.com/
+Portfolio: https://success-afordev.vercel.app/
 
 LinkedIn: https://www.linkedin.com/in/success-afor-92bb19222/
 
